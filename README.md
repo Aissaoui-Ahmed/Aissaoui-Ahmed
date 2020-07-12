@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Aissaoui Ahmed](./Aissaoui-Ahmed.JPG)
+![Aissaoui Ahmed](https://github.com/Aissaoui-Ahmed/Aissaoui-Ahmed/blob/master/Aissaoui-Ahmed.JPG)
 
 
 - 🌱 I’m currently learning 'JS'
