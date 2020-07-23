@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aissaoui Ahmed 👋[![HitCount](http://hits.dwyl.com/aissaoui-ahmed/aissaoui-ahmed.svg)](http://hits.dwyl.com/aissaoui-ahmed/aissaoui-ahmed)
 
 ![Aissaoui Ahmed](https://github.com/Aissaoui-Ahmed/Aissaoui-Ahmed/blob/master/Aissaoui-Ahmed.JPG)
 
