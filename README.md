@@ -1,6 +1,6 @@
 ### Aissaoui Ahmed 👋[![HitCount](http://hits.dwyl.com/aissaoui-ahmed/aissaoui-ahmed.svg)](http://hits.dwyl.com/aissaoui-ahmed/aissaoui-ahmed)
 
-![Aissaoui Ahmed](https://github.com/Aissaoui-Ahmed/Aissaoui-Ahmed/blob/master/Aissaoui-Ahmed.JPG)
+![Aissaoui Ahmed](https://github.com/Aissaoui-Ahmed/Aissaoui-Ahmed/blob/master/Aissaoui-Ahmed.jpg)
 
 
 - 🌱 I’m currently learning 'JS'
