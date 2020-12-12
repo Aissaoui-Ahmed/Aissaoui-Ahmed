@@ -1,4 +1,4 @@
-# Aissaoui Ahmed 👋[![HitCount](https://hits.dwyl.com/Aissaoui-Ahmed/Aissaoui-Ahmed.svg)](http://hits.dwyl.com/Aissaoui-Ahmed/Aissaoui-Ahmed)
+# Aissaoui Ahmed 👋 ![](https://komarev.com/ghpvc/?username=aissaoui-ahmed&color=62cd16&style=flat-square)
 
 - 🌱 I’m currently learning 'JS'
 - 👯 I’m looking to collaborate on OpenSources projects
